@@ -39,7 +39,7 @@ function App() {
 
   return (
     <div>
-      <div className="map" ref={mapRef} style={{ height: '500px' }}></div>
+      <div className="map" ref={mapRef} style={{ height: '90vh' }}></div>
     </div>
   );
 }
